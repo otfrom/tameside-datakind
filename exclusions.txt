@@ -1,0 +1,4 @@
+.gitignore
+exclusions.txt
+.git/
+sync-site.sh
